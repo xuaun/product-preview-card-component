@@ -42,7 +42,7 @@ Users should be able to:
 #### Mobile
 
 <p align="center">
-  <img src="./src/design/mobile-screenshot.png" alt="Mobile Screenshot of live page" title="Mobile Screenshot of live page" width="300" />
+  <img src="./src/design/mobile-screenshot.jpg" alt="Mobile Screenshot of live page" title="Mobile Screenshot of live page" width="300" />
 </p>
 
 ### Links
@@ -126,7 +126,7 @@ Os usuários devem ser capazes de:
 #### Celular
 
 <p align="center">
-  <img src="./src/design/mobile-screenshot.png" alt="Print da tela no Celular" title="Print da tela no Celular" width="300" />
+  <img src="./src/design/mobile-screenshot.jpg" alt="Print da tela no Celular" title="Print da tela no Celular" width="300" />
 </p>
 
 ### <p id="links-pt">Links</p>
