@@ -1,0 +1,41 @@
+:root {
+  /* COLORS */
+  --background-page-color: hsl(30, 38%, 92%);
+  --background-card-color: hsl(0, 0%, 100%);
+  --background-btn-color: hsl(157, 36%, 37%);
+  --background-btn-hover-color: hsl(157, 43%, 18%);
+  --text-product-name-color: hsl(212, 21%, 14%);
+  --text-type-color: hsl(228, 12%, 48%);
+  --text-desc-color: hsl(228, 12%, 48%);
+  --text-full-price-color: hsl(228, 12%, 48%);
+  --text-new-price-color: hsl(157, 36%, 37%);
+  --text-btn-color: hsl(0, 0%, 100%);
+
+  /* TITLE PRESET 1 - DISPLAY */
+  --text-display-family: "Fraunces", sans-serif;
+  --text-display-size: 3.2rem;
+  --text-display-weight: 700;
+  --text-display-height: 3.2rem;
+  --text-display-spacing: 0rem;
+
+  /* TEXT PRESET 2 - BODY */
+  --text-body-family: "Montserrat", sans-serif;
+  --text-body-size: 1.4rem;
+  --text-body-weight: 500;
+  --text-body-height: 2.3rem;
+  --text-body-spacing: 0rem;
+
+  /* TEXT PRESET 3 - BTN TEXT */
+  --text-btn-family: "Montserrat", sans-serif;
+  --text-btn-size: 1.4rem;
+  --text-btn-weight: 700;
+  /* --text-btn-height: 0rem; */
+  --text-btn-spacing: 0rem;
+
+  /* TEXT PRESET 4 - OVERLINE */
+  --text-overline-family: "Montserrat", sans-serif;
+  --text-overline-size: 1.2rem;
+  --text-overline-weight: 500;
+  /* --text-overline-height: 0rem; */
+  --text-overline-spacing: 0.5rem;
+}

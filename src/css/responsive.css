@@ -1,0 +1,38 @@
+@media (max-width: 60rem) {
+    body {
+        min-height: 61.1rem;
+        min-width: 34.3rem;
+    }
+    
+    .product-card {
+        grid-template-columns: 1fr;
+        width: 34.3rem;
+        height: auto;
+    }
+
+    .product-img {
+        width: 34.3rem;
+        border-top-right-radius: 1rem;
+        border-bottom-left-radius: 0rem;
+    }
+
+    .product-card__info {
+        padding: 2.4rem;
+    }
+
+    .product-card__type {
+        margin-bottom: 1.2rem;
+    }
+
+    .product-card__name {
+        margin-bottom: 1.6rem;
+    }
+
+    .product-card__description {
+        margin-bottom: 2.4rem;
+    }
+
+    .product-card__prices {
+        margin-bottom: 3.5rem;
+    }
+}
