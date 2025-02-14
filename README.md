@@ -91,7 +91,7 @@ ____
 
 ## Contexto
 
-Esta é uma solução para o [desafio de de componente de cartão de visualização de produto no Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação construindo projetos realistas.
+Esta é uma solução para o [desafio de de componente de cartão de visualização de produto no Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação construindo projetos realistas.
 
 > Seu desafio é criar este componente de cartão de visualização de produto e fazer com que ele tenha a aparência mais próxima possível do design.
 
